@@ -1,0 +1,26 @@
+/* Google typsnitt */
+@import url('https://fonts.googleapis.com/css?family=Robot:400,700');
+
+body {
+    background: url('./bilder/abyan-athif-prsGKZ93F1A-unsplash.jpg') no-repeat center center fixed;
+}
+
+h1 {
+    font: 120px 'Robot', sans-serif;
+    font-weight: bold;
+    color: #fff;
+}
+
+h2 {
+    font: 80px 'Robot', sans-serif;
+    color: #fff;
+
+}
+
+p {}
+
+a {
+    font: 40px 'Robot', sans-serif;
+    color: #fff;
+    text-decoration: none;
+}
