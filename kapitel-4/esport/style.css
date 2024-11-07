@@ -26,5 +26,21 @@ body {
     border-radius: 10px;
 }
 h1 {
-    font: "Faster one", ;
+    font: "Faster one", system-ui;
+    font-size: 75px;
 }
+h2 {
+
+}
+img {
+    width: 200px;
+}
+.bildtext {
+}
+.thanks {
+
+
+}
+a {
+
+ }
