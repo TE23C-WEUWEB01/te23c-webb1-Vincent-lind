@@ -1,0 +1,35 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before,*:after {
+    box-sizing: inherit;
+}
+
+body,h1,h2,h3,h4,h5,h6,p,ul {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --cyan-process: #5bc0ebff;
+    --minion-yellow: #fde74cff;
+    --android-green: #9bc53dff;
+    --orange-soda: #e55934ff;
+    --pumpkin: #fa7921ff;
+}
+
+body {
+    background-image: url('bilder/snö\ skog.jpg');  /* Ange bildens sökväg här */
+    background-size: cover;  /* Gör att bakgrunden täcker hela sidan */
+    background-position: center;  /* Centrerar bakgrunden */
+    background-repeat: no-repeat;  /* Gör att bakgrunden inte upprepas */
+    height: 100vh;  /* Sätter höjden på sidan till 100% av viewport-höjden */
+    margin: 0;  /* Tar bort standardmarginaler */
+}
+ .kontainer .meny a:hover {
+    background: var(--android-green);
+ }
+ .kontainer .meny .aktiv {
+    background: var(--android-green);
+ }
