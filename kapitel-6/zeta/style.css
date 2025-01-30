@@ -8,3 +8,38 @@ body h1, h2 , h3, h4, h5, h6, p, ul {
     margin: 0;
     padding: 0;
 }
+
+/* 
+Bg färg - #FBF7F1
+Bg bild färg - #FSEBDC
+Textfärg - #502314
+knappen färg - #CC2200
+typsitt - modak
+font-family: "modak", serif;
+font-weight: 400;
+font-style: normal ;
+*/
+
+/* Sidlayouten */
+
+body {
+    background-color: #F3F0DD;
+}
+
+.kontainer {
+    width: 400px;
+    margin: auto;
+    font-family: "Modak", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sida {
+    width: 10px;
+    margin: auto;
+}
+
+.rutor {
+    padding: 10px;
+    size: 10px;
+}
